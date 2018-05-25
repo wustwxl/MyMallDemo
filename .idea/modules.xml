@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager/mall-manager.iml" filepath="$PROJECT_DIR$/mall-manager/mall-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager//mall-manager-mapper/mall-manager-mapper.iml" filepath="$PROJECT_DIR$/mall-manager//mall-manager-mapper/mall-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo/mall-manager-pojo.iml" filepath="$PROJECT_DIR$/mall-manager/mall-manager-pojo/mall-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager/mall-manager-service/mall-manager-service.iml" filepath="$PROJECT_DIR$/mall-manager/mall-manager-service/mall-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager/mall-manager-web/mall-manager-web.iml" filepath="$PROJECT_DIR$/mall-manager/mall-manager-web/mall-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-order/mall-order.iml" filepath="$PROJECT_DIR$/mall-order/mall-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-parent/mall-parent.iml" filepath="$PROJECT_DIR$/mall-parent/mall-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-portal/mall-portal.iml" filepath="$PROJECT_DIR$/mall-portal/mall-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-rest/mall-rest.iml" filepath="$PROJECT_DIR$/mall-rest/mall-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-search/mall-search.iml" filepath="$PROJECT_DIR$/mall-search/mall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-sso/mall-sso.iml" filepath="$PROJECT_DIR$/mall-sso/mall-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator/mybatis-generator.iml" filepath="$PROJECT_DIR$/mybatis-generator/mybatis-generator.iml" />
+    </modules>
+  </component>
+</project>
